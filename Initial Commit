@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>TessaReacts VR</h1>
+<p>Step inside the Tesseract, a 4-dimensional cube.</p>
+ <img src="a_square.jpeg" alt="A Square">
+<a href="dashboard.hackher413.com">Hack Her 413 Dashboard </a>
 </body>
 </html>
