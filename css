@@ -1,0 +1,31 @@
+body {
+  background-color: #ffb3b3;
+}
+
+h1 {
+   font-family: Monoton;
+  font-size: 48px;
+  color: #661aff;
+  text-align: center;
+}
+
+p {
+  font-family: andale mono;
+  font-size: 25px;
+  color: #008ae6;
+}
+ul {
+  font-family: andale mono;
+  font-size: 25px;
+  color: #008ae6;
+}
+h2 {
+  font-family: Monoton;
+  font-size:36px;
+  color: blue;
+}
+h3 {
+  font-family: Monoton;
+  font-size:36px;
+  color: #cc4400;
+}
